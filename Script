@@ -1,0 +1,74 @@
+[
+    {
+        "city": "New York",
+        "enName": "United States",
+        "hostCountry": "us",
+        "proxyConfig": {
+            "host": "us-5c26a98c.yalaso.top",
+            "ip": "92.38.169.140",
+            "port": 443
+        },
+        "twoCharacter": "us",
+        "vip_level": 0
+    },
+    {
+        "city": "Los Angeles",
+        "enName": "United States",
+        "hostCountry": "us",
+        "proxyConfig": {
+            "host": "us-2e159fc1.yalaso.top",
+            "ip": "46.21.159.193",
+            "port": 443
+        },
+        "twoCharacter": "us",
+        "vip_level": 0
+    },
+    {
+        "city": "Moscow",
+        "enName": "Russian Federation",
+        "hostCountry": "ru",
+        "proxyConfig": {
+            "host": "ru-b90442ee.yalaso.top",
+            "ip": "185.4.66.238",
+            "port": 443
+        },
+        "twoCharacter": "ru",
+        "vip_level": 0
+    },
+    {
+        "city": "Novosibirsk",
+        "enName": "Russian Federation",
+        "hostCountry": "ru",
+        "proxyConfig": {
+            "host": "ru-2d59e4d7.yalaso.top",
+            "ip": "45.89.228.215",
+            "port": 443
+        },
+        "twoCharacter": "ru",
+        "vip_level": 0
+    },
+    {
+        "city": "London",
+        "enName": "United Kingdom",
+        "hostCountry": "gb",
+        "proxyConfig": {
+            "host": "gb-053d3db7.yalaso.top",
+            "ip": "5.61.61.183",
+            "port": 443
+        },
+        "twoCharacter": "gb",
+        "vip_level": 0
+    },
+    {
+        "city": "Frankfurt",
+        "enName": "Germany",
+        "hostCountry": "de",
+        "proxyConfig": {
+            "host": "de-053d2b7c.yalaso.top",
+            "ip": "5.61.43.124",
+            "port": 443
+        },
+        "twoCharacter": "de",
+        "vip_level": 0
+    }
+]
